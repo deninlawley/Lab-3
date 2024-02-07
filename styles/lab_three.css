@@ -12,7 +12,7 @@ iframe {
 
 @media screen and (min-width: 768px) {
     iframe {
-      min-height: 15.5rem;
+      min-height: 30rem;
     }
   }
 
